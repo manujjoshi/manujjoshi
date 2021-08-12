@@ -1,6 +1,6 @@
 👋 Hi, I’m Manuj Kumar Joshi.
 
-👀 I’m interested in Maths,ML,DL,NLP and Computer Vision.
+👀 I’m interested in Maths, ML, DL, NLP, Web Scraping and Computer Vision.
 
 🌱 I’m currently Working as trainee under Innomaitcs Research Labs.
 
