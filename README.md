@@ -2,6 +2,8 @@
 
 ## I'm a Developer, Aspiring Data Scientist or Full Stack Data Scientist and a Fast Learner!!
 
+
+
 👀 I’m interested in Maths, AI, ML, DL, NLP, Web Scraping, Computer Vision and Data Science.
 
 🌱 I’m currently Working as trainee under Innomaitcs Research Labs.
