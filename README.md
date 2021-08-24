@@ -1,6 +1,6 @@
 ### Hi there, I'm Manuj Kumar Joshi 👋
 
-## I'm a Developer, Aspiring Data Scientist or Full Stack Data Scientist and a Fast Learner!!
+## I'm a Designer, Developer, Aspiring Data Scientist and Fast Learner!!
 
 
 
