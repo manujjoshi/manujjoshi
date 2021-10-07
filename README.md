@@ -4,7 +4,7 @@
 
 
 
-👀 I’m interested in Maths, AI, ML, DL, NLP, Web Scraping, Computer Vision and Data Science.
+👀 I’m interested in Maths, AI, ML, DL, NLP, Business Intelligence, Web Scraping, Computer Vision and Data Science.
 
 🌱 I’m currently Working as trainee under Innomaitcs Research Labs.
 
