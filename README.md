@@ -1,11 +1,13 @@
 ### Hi there, I'm Manuj Kumar Joshi 👋
 
-## I'm a Developer, Aspiring Data Scientist and Fast Learner!!
+## I'm a Backend Developer, Aspiring Data Scientist and Fast Learner!!
 
 
 
-👀 I’m interested in Maths, AI, ML, DL, NLP, Business Intelligence, Web Scraping, Computer Vision and Data Science.
+👀 I’m interested in Maths, AI, ML, DL, NLP, Business Intelligence, Web Scraping, Computer Vision, Data Science and Reinforcement Learning.
 
-🌱 I’m currently Working as Data Science Intern under Innomaitcs Research Labs.
+🌱 I am cuurently looking for job specifically for the Data Scientist/ML Engineer/Data Engineer role.
 
-📫 How to reach me https://www.linkedin.com/in/manuj-kumar-joshi-%F0%9F%8E%AF-036148197
+📫 How to reach me https://www.linkedin.com/in/manujjoshi/
+
+📫 Portfolio https://myportfolio52.herokuapp.com/
