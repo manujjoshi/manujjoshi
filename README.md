@@ -11,3 +11,8 @@
 📫 How to reach me https://www.linkedin.com/in/manujjoshi/
 
 📫 Portfolio https://myportfolio52.herokuapp.com/
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://1.bp.blogspot.com/-cp7pjKnX6bY/YQqB4VppHwI/AAAAAAAAADE/o19egdVOW0AOPGEILGXv44_eO_YK36zMgCLcBGAsYHQ/s320/linkedin_logo_icon_170234.png" />][linkedin]
