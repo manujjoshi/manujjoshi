@@ -7,9 +7,11 @@
 
 🌱 I am currently working as an Associate Data Scientist in a service based company.
 
-🌱 I use Heroku and AWS EC2 for deployment purpose for personal use.
+🌱 I use Heroku and AWS EC2 for deployment purpose.
 
-🌱 I use Flask and Streamlit for frontend purpose for personal use.
+🌱 I use Streamlit for frontend purpose.
+
+🌱 I use Flask, Fast API and Django for for API development.
 
 ### Connect with me:
 
