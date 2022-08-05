@@ -3,13 +3,13 @@
 ## I'm an Associate Data Scientist, Developer and a Fast Learner!!
 
 
-### 👀 I’m interested in Maths, AI, ML, DL, NLP, Business Intelligence, Web Scraping, Computer Vision, Data Science, Data Engineering and Reinforcement Learning.
+👀 I’m interested in Maths, AI, ML, DL, NLP, Business Intelligence, Web Scraping, Computer Vision, Data Science, Data Engineering and Reinforcement Learning.
 
-🌱 I am currently working as a Data Scientist.
+🌱 I am currently working as a Associate Data Scientist in a service based company.
 
-🌱 I use Heroku and AWS EC2 for deployment purpose.
+🌱 I use Heroku and AWS EC2 for deployment purpose for personal use, because evrything is just on Azure on our company.
 
-🌱 I use Flask and Streamlit for frontend purpose.
+🌱 I use Flask and Streamlit for frontend purpose for personal use, because we have a different frontend team in our company.
 
 ### Connect with me:
 
