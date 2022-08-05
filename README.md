@@ -1,9 +1,9 @@
 ## Hi there, I'm Manuj Kumar Joshi 👋
 
-## I'm a Developer, Data Scientist and Fast Learner!!
+## I'm an Associate Data Scientist, Developer and a Fast Learner!!
 
 
-👀 I’m interested in Maths, AI, ML, DL, NLP, Business Intelligence, Web Scraping, Computer Vision, Data Science, Big Data and Reinforcement Learning.
+### 👀 I’m interested in Maths, AI, ML, DL, NLP, Business Intelligence, Web Scraping, Computer Vision, Data Science, Data Engineering and Reinforcement Learning.
 
 🌱 I am currently working as a Data Scientist.
 
