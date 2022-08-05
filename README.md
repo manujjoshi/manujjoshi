@@ -5,7 +5,7 @@
 
 👀 I’m interested in Maths, AI, ML, DL, NLP, Business Intelligence, Web Scraping, Computer Vision, Data Science, Data Engineering and Reinforcement Learning.
 
-🌱 I am currently working as a Associate Data Scientist in a service based company.
+🌱 I am currently working as an Associate Data Scientist in a service based company.
 
 🌱 I use Heroku and AWS EC2 for deployment purpose for personal use.
 
