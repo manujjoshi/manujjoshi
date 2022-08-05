@@ -7,7 +7,7 @@
 
 🌱 I am currently working as a Associate Data Scientist in a service based company.
 
-🌱 I use Heroku and AWS EC2 for deployment purpose for personal use, because evrything is just on Azure on our company.
+🌱 I use Heroku and AWS EC2 for deployment purpose for personal use, because evrything is just on Azure in our company. Celebal is Back to back 2 times Microsoft Partner.
 
 🌱 I use Flask and Streamlit for frontend purpose for personal use, because we have a different frontend team in our company.
 
