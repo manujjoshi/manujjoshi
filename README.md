@@ -13,6 +13,8 @@
 
 🌱 I use Flask, Fast API and Django for for API development.
 
+🌱 4x Microsift Certified and 1x Databricks Certified. 
+
 ### Connect with me:
 
 
