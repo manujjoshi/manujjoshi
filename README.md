@@ -7,7 +7,7 @@
 
 🌱 I am currently working as an Associate Data Scientist in a service based company.
 
-🌱 I use Heroku and AWS EC2 for deployment purpose.
+🌱 I use Heroku and Azure for deployment purpose.
 
 🌱 MLOps and MLFLOW on Azure and Databricks ML
 
