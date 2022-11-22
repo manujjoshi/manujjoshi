@@ -9,6 +9,8 @@
 
 🌱 I use Heroku and AWS EC2 for deployment purpose.
 
+🌱 MLOps and MLFLOW on Azure and Databricks ML
+
 🌱 I use Streamlit for frontend purpose.
 
 🌱 I use Flask, Fast API and Django for for API development.
