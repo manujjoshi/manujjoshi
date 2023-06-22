@@ -9,7 +9,9 @@
 
 🌱 I use Heroku and Azure for deployment purpose.
 
-🌱 MLOps and MLFLOW on Azure and Databricks ML
+🌱 MLOps and MLFLOW on Azure and Databricks ML.
+
+🌱 Worked on DevOps, Docker, Kubernetes, Linux and API Testing.
 
 🌱 I use Streamlit for frontend purpose.
 
