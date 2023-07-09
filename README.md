@@ -26,7 +26,7 @@
 
 📫 Linkedin: https://www.linkedin.com/in/manujjoshi/
 
-📫 Portfolio: https://myportfolio52.herokuapp.com/
+📫 Portfolio: [Updated Resume](https://github.com/manujjoshi/Resume/blob/main/Manuj%20Joshi%202023.pdf)
 
 📫 Email: manujjoshi52@gmail.com
 
