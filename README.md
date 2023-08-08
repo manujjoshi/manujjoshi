@@ -1,9 +1,9 @@
 ## Hi there, I'm Manuj Kumar Joshi 👋
 
-## I'm Data Scientist, Databricks ML Data Scientist, Developer, and a Fast Learner!!
+## I'm Data Scientist, Software Engineer, Databricks ML Data Scientist, Developer, and a Fast Learner!!
 
 
-👀 I’m interested in Maths, Statistics AI, ML, DL, NLP, Business Intelligence, Web Scraping, Computer Vision, MLOps, Docker, k8's, Cloud Computing, Data Science, Data Engineering, and Reinforcement Learning.
+👀 I’m interested in Maths, Statistics AI, ML, DL, NLP, Business Intelligence, Web Scraping, Computer Vision, MLOps, Docker, k8's, Cloud Computing, Data Science, Data Engineering, Reinforcement Learning, and Generative AI & LLMs.
 
 🌱 I am currently working as a Data Scientist in a service-based company.
 
