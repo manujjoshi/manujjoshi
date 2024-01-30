@@ -5,7 +5,7 @@
 
 👀 I’m interested in Maths, Statistics AI, ML, DL, NLP, Business Intelligence, Web Scraping, Computer Vision, MLOps, Docker, k8's, Cloud Computing, Data Science, Data Engineering, Reinforcement Learning, and Generative AI & LLMs.
 
-🌱 I am currently working as a Data Scientist in a service-based company.
+🌱 I am currently working as a Data Scientist in a product & service-based company.
 
 🌱 I use Heroku and Azure for deployment purposes.
 
