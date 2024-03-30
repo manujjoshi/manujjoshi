@@ -13,7 +13,7 @@
 
 🌱 Worked on DevOps, Docker, Kubernetes, Linux, and API Testing.
 
-🌱 I use Streamlit for frontend purposes.
+🌱 I use Streamlit and Gradio for frontend purposes.
 
 🌱 I use Flask, Fast API, and Django for API development.
 
