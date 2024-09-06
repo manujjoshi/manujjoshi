@@ -5,7 +5,7 @@
 
 👀 I’m interested in Maths, Statistics AI, ML, DL, NLP, Business Intelligence, Web Scraping, Computer Vision, MLOps, Docker, k8's, Cloud Computing, Data Science, Data Engineering, Reinforcement Learning, and Generative AI & LLMs.
 
-🌱 I am currently working as a Data Scientist in R&D team in a product-based(IKIO) & service-based(METCO) company.
+🌱 I am currently working as a Data Scientist in R&D team in a product-based(IKIO) & service-based(METCO Engineering Inc.) company.
 
 🌱 I use Heroku and Azure for deployment purposes.
 
