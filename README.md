@@ -7,13 +7,13 @@
 
 🌱 I am currently working as a Data Scientist in R&D team in a product-based(IKIO) & service-based(METCO Engineering Inc.) company.
 
-🌱 I use Heroku and Azure for deployment purposes.
+🌱 I use Netlify, Vercel, Streamlit-Cloud, Heroku, and Azure for deployment purposes.
 
 🌱 MLOps and MLFLOW on Azure and Databricks ML.
 
 🌱 Worked on DevOps, Docker, Kubernetes, Linux, and API Testing.
 
-🌱 I use Streamlit and Gradio for frontend purposes.
+🌱 I use React, Streamlit, and Gradio for frontend purposes.
 
 🌱 I use Flask, Fast API, and Django for API development.
 
@@ -26,7 +26,9 @@
 
 📫 Linkedin: https://www.linkedin.com/in/manujjoshi/
 
-📫 Portfolio: [Updated Resume](https://github.com/manujjoshi/Resume/blob/main/Manuj%20Joshi%202023.pdf)
+📫 [Portfolio](https://sites.google.com/view/manujs-portfolio/home?authuser=1)
+
+📫 [Resume](https://sites.google.com/view/manujs-portfolio/my-resume?authuser=1)
 
 📫 Email: manujjoshi52@gmail.com
 
