@@ -32,4 +32,6 @@
 
 📫 [Email](manujjoshi52@gmail.com)
 
+`📧 [Email Me](mailto:yourname@example.com)`  
+
 ![](https://komarev.com/ghpvc/?username=manujjoshi52)
