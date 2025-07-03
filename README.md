@@ -60,7 +60,7 @@ I’m deeply passionate about:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/manujjoshi/)
 - 🌐 [Portfolio](https://sites.google.com/view/manujs-portfolio/home?authuser=1)
 - 📄 [Resume](https://sites.google.com/view/manujs-portfolio/my-resume?authuser=1)
-- 📧 **Email Me**: [yourname@example.com](mailto:yourname@example.com)
+- 📧 [Email Me](mailto:yourname@example.com)
 
 ---
 
