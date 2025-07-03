@@ -24,12 +24,12 @@
 ### Connect with me:
 
 
-📫 Linkedin: https://www.linkedin.com/in/manujjoshi/
+📫 [Linkedin](https://www.linkedin.com/in/manujjoshi/)
 
 📫 [Portfolio](https://sites.google.com/view/manujs-portfolio/home?authuser=1)
 
 📫 [Resume](https://sites.google.com/view/manujs-portfolio/my-resume?authuser=1)
 
-📫 Email: manujjoshi52@gmail.com
+📫 [Email](manujjoshi52@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=manujjoshi52)
