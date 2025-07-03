@@ -30,8 +30,6 @@
 
 📫 [Resume](https://sites.google.com/view/manujs-portfolio/my-resume?authuser=1)
 
-📫 [Email](manujjoshi52@gmail.com)
-
 📧 [Email Me](mailto:yourname@example.com) 
 
 ![](https://komarev.com/ghpvc/?username=manujjoshi52)
