@@ -1,35 +1,69 @@
-## Hi there, I'm Manuj Kumar Joshi 👋
+# 👋 Hi there, I'm Manuj Kumar Joshi
 
-## I'm Data Scientist, Databricks ML Data Scientist, Developer, and a Fast Learner!!
+I’m a **Data Scientist**, **Databricks ML Expert**, **Developer**, and a **Fast Learner** who’s passionate about building scalable AI solutions, automating workflows, and turning data into decisions.
 
+---
 
-👀 I’m interested in Maths, Statistics AI, ML, DL, NLP, Business Intelligence, Web Scraping, Computer Vision, MLOps, Docker, k8's, Cloud Computing, Data Science, Data Engineering, Reinforcement Learning, and Generative AI & LLMs.
+## 🔭 What I’m Interested In
 
-🌱 I am currently working as a Data Scientist in R&D team in a product-based(IKIO) & service-based(METCO Engineering Inc.) company.
+I’m deeply passionate about:
 
-🌱 I use Netlify, Vercel, Streamlit-Cloud, and Azure for deployment purposes.
+- 🧠 **Mathematics** & **Statistics**
+- 🤖 **AI**, **Machine Learning**, **Deep Learning**, **Natural Language Processing**
+- 🧹 **Web Scraping**, **Computer Vision**, **Reinforcement Learning**
+- 🧱 **MLOps**, **Docker**, **Kubernetes (k8s)**, **Linux**, **API Testing**
+- 📊 **Business Intelligence**, **Data Science**, **Data Engineering**
+- ☁️ **Cloud Computing**
+- 🌌 **Generative AI & LLMs**
 
-🌱 MLOps and MLFLOW on Azure and Databricks ML.
+---
 
-🌱 Worked on DevOps, Docker, Kubernetes, Linux, and API Testing.
+## 💼 Current Role
 
-🌱 I use React, Streamlit, and Gradio for frontend purposes.
+🌱 I’m currently working as a **Data Scientist** in the **R&D team** at:
 
-🌱 I use Flask, Fast API, and Django for API development.
+- 🏢 **IKIO** — A Product-Based Company  
+- 🏢 **METCO Engineering Inc.** — A Service-Based Company
 
-🌱 4x Microsoft Certified and 3x Databricks Certified. 
+---
 
-🌱 Big Data Enthusiast: Knows ADF, Pyspark, Spark SQL and the list is growing day by day
+## 🚀 Tools & Technologies I Use
 
-### Connect with me:
+- **Frontend Development**:  
+  🔹 React, Streamlit, Gradio
 
+- **API Development**:  
+  🔹 Flask, FastAPI, Django
 
-📫 [Linkedin](https://www.linkedin.com/in/manujjoshi/)
+- **MLOps & Deployment**:  
+  🔹 MLFlow on Azure & Databricks  
+  🔹 Netlify, Vercel, Streamlit Cloud, Azure
 
-📫 [Portfolio](https://sites.google.com/view/manujs-portfolio/home?authuser=1)
+- **DevOps Stack**:  
+  🔹 Docker, Kubernetes, Linux, API Testing
 
-📫 [Resume](https://sites.google.com/view/manujs-portfolio/my-resume?authuser=1)
+- **Big Data & ETL Tools**:  
+  🔹 Azure Data Factory (ADF), PySpark, Spark SQL  
+  🔹 Big Data Enthusiast — and the list is growing day by day!
 
-📧 [Email Me](mailto:yourname@example.com) 
+---
 
-![](https://komarev.com/ghpvc/?username=manujjoshi52)
+## 📜 Certifications
+
+- 🎓 **4× Microsoft Certified**
+- 🎓 **3× Databricks Certified**
+
+---
+
+## 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/manujjoshi/)
+- 🌐 [Portfolio](https://sites.google.com/view/manujs-portfolio/home?authuser=1)
+- 📄 [Resume](https://sites.google.com/view/manujs-portfolio/my-resume?authuser=1)
+- 📧 **Email Me**: [yourname@example.com](mailto:yourname@example.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=manujjoshi52)
+
+_Thanks for visiting my profile! Let’s build something impactful together 🚀_
