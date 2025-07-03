@@ -7,7 +7,7 @@
 
 🌱 I am currently working as a Data Scientist in R&D team in a product-based(IKIO) & service-based(METCO Engineering Inc.) company.
 
-🌱 I use Netlify, Vercel, Streamlit-Cloud, Heroku, and Azure for deployment purposes.
+🌱 I use Netlify, Vercel, Streamlit-Cloud, and Azure for deployment purposes.
 
 🌱 MLOps and MLFLOW on Azure and Databricks ML.
 
