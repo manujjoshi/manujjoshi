@@ -20,7 +20,7 @@ I’m deeply passionate about:
 
 ## 💼 Current Role
 
-🌱 I’m currently working as a **Data Scientist Lead (Databricks)** at:
+🌱 I’m currently working as a **Data Scientist (Databricks)** at:
 
 - 🏢 **Techsaga Corporations, Noida**
 - 🏢 **Al Dahra Holding Limited, UAE**
