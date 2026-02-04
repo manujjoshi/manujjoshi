@@ -22,7 +22,7 @@ I’m deeply passionate about:
 
 🌱 I’m currently working as a **Data Scientist** in the **R&D team** at:
 
-- 🏢 **Techsaga Corporations**
+- 🏢 **Techsaga Corporations, Noida**
 - 🏢 **Al Dahra Holding Limited, UAE**
 
 ---
