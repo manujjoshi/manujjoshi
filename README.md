@@ -20,7 +20,7 @@ I’m deeply passionate about:
 
 ## 💼 Current Role
 
-🌱 I’m currently working as a **Data Scientist** in the **R&D team** at:
+🌱 I’m currently working as a **Data Scientist Lead** at:
 
 - 🏢 **Techsaga Corporations, Noida**
 - 🏢 **Al Dahra Holding Limited, UAE**
