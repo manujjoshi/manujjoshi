@@ -22,8 +22,8 @@ I’m deeply passionate about:
 
 🌱 I’m currently working as a **Data Scientist** in the **R&D team** at:
 
-- 🏢 **IKIO** — A Product-Based Company  
-- 🏢 **METCO Engineering Inc.** — A Service-Based Company
+- 🏢 **Techsaga Corporations**
+- 🏢 **Al Dahra Holding Limited, UAE**
 
 ---
 
