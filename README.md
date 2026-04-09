@@ -51,7 +51,7 @@ I’m deeply passionate about:
 ## 📜 Certifications
 
 - 🎓 **4× Microsoft Certified**
-- 🎓 **3× Databricks Certified**
+- 🎓 **4× Databricks Certified**
 
 ---
 
