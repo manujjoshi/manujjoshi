@@ -24,6 +24,7 @@ I’m deeply passionate about:
 
 - 🏢 **Techsaga Corporations, Noida**
 - 🏢 **Al Dahra Holding Limited, UAE**
+  ![](https://github.com/manujjoshi/Techsaga-Corporations/blob/main/Aldahra%20Corporate%20Signature%20Branding.png)
 
 ---
 
