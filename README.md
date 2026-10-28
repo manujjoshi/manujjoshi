@@ -22,11 +22,13 @@ I’m deeply passionate about:
 
 🌱 I’m currently working as a **Data Scientist – Consultant (Applied AI | Databricks)** at:
 
-- 🏢 **Techsaga Corporations, Noida**
-  <img src="https://github.com/manujjoshi/Techsaga-Corporations/blob/main/Techsaga%20Signature.png" width="500" alt="GitHub Logo">
 
+<img src="https://github.com/manujjoshi/Techsaga-Corporations/blob/main/Techsaga%20Signature.png" width="500" alt="GitHub Logo">
+- 🏢 **Techsaga Corporations, Noida**
+
+
+<img src="https://github.com/manujjoshi/Techsaga-Corporations/blob/main/Aldahra%20Corporate%20Signature%20Branding.png" width="500" alt="GitHub Logo">
 - 🏢 **Al Dahra Holding Limited, UAE** 
-  <img src="https://github.com/manujjoshi/Techsaga-Corporations/blob/main/Aldahra%20Corporate%20Signature%20Branding.png" width="500" alt="GitHub Logo">
 
 ---
 
